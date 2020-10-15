@@ -95,16 +95,3 @@ print(micheal)
 titles = "micheal"
 
 print(titles)
-
-
-
-
-
-
-
-
-
-
-
-
-
