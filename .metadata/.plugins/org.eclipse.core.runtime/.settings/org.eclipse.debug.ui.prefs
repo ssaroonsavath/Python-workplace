@@ -6,4 +6,5 @@ org.eclipse.debug.ui.consoleBackground=31,31,39
 org.eclipse.debug.ui.errorColor=128,139,237
 org.eclipse.debug.ui.inColor=255,205,139
 org.eclipse.debug.ui.outColor=207,191,173
+org.eclipse.debug.ui.save_dirty_editors_before_launch=always
 org.eclipse.debug.ui.wait_for_build=never
