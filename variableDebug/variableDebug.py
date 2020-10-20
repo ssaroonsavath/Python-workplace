@@ -40,7 +40,7 @@ The function should print and return the total
 
 def circleArea(radius):
     pi = 3.14 
-    area = pi * squared 
+    area = pi * squared
     print("The area is:" + area)
     return area
 
