@@ -26,9 +26,8 @@ def shippingAndTax(subTotal):
     
     taxTotal = subTotal * tax
     total = subTotal + taxTotal + shipping 
-    print("The total is: + total")
+    print("The total is:" + total)
     return total
-
 
 
 
@@ -38,9 +37,11 @@ of an order after tax and shipping
 The function should print and return the total
 '''
 
-def circleArea(radius):
+def circleArea(radius, squared):
     pi = 3.14 
+    
     area = pi * squared
+    squared = radius * radius 
     print("The area is:" + area)
     return area
 
