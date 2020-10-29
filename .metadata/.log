@@ -706,3 +706,6 @@ java.io.FileNotFoundException: C:\Program Files\Brainwy\LiClipse 7.0.0\plugins\c
 
 !ENTRY org.python.pydev.shared_core 4 4 2020-10-29 15:03:46.903
 !MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\inputDebug\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
+
+!ENTRY org.python.pydev.shared_core 4 4 2020-10-29 15:36:02.741
+!MESSAGE Info: Rebuilding internal caches: C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\survey\com.python.pydev.analysis\AdditionalProjectInterpreterInfo.pydevinfo (Expected error to be provided and got no error!)
