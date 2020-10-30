@@ -10,7 +10,8 @@ favAnimal = input("wolf")
 
 userResponse = input("What is your favorite number?")
 favNum = input("18")
-
+s = ("18")
+int(s)
 
 
 userResponse = input("What is your school's name?")
@@ -22,3 +23,5 @@ instructor = input("Micheal and Chokyi")
 
 userResponse = input("What is 2 +2?")
 ans = input("4")
+s = ("4")
+int(s)
