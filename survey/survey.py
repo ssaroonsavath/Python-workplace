@@ -8,7 +8,7 @@ Make a program that can take survey information
 #a variable called name. Then print the variable.
 
 userResponse = input("What is your name?")
-name ="Savannah Aroonsavath"
+name = userResponse
 print(name)
 
 
@@ -16,7 +16,7 @@ print(name)
 #in a variable called color. Then print the variable.
 
 Response = input("What is your favorite color?")
-color = "Greyish blue"
+color = Response
 print(color)
 
 
@@ -24,7 +24,7 @@ print(color)
 #that in a variable called city. Then print the variable.
 
 userResponse = input("What city did you grow up in?")
-city = "Madison"
+city = userResponse
 print(city)
 
 
@@ -32,7 +32,7 @@ print(city)
 #that in a variable called friend. Then print the variable.
 
 userResponse = input("What is your best friend's name?")
-friend = "Destiny, Seesia and Jae"
+friend = userResponse
 print(friend)
 
 
@@ -40,8 +40,11 @@ print(friend)
 #in a variable called hair. Then print the variable.
 
 userResponse = input("What color hair do you have?")
-hair = "Dark brown"
+hair = userResponse
 print(hair)
+
+
+
 
 
 
