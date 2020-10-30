@@ -14,4 +14,8 @@ response = input("What is your name?")
 print(response)
 
 response = input("What is your age?")
-print(response)
+age = response 
+s = input(age)
+int(s)
+
+
