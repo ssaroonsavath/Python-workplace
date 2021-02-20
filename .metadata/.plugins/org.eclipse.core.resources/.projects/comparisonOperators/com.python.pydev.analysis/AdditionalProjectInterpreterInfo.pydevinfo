@@ -1,0 +1,54 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\comparisonOperators\com.python.pydev.analysis\v2_indexcache
+comparisonDrills|1605818612840049100|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\comparisonDrills.py
+practice|1605816697500527000|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\practice.py
+comparisonOperatorDrills|1605816666125882600|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\comparisonOperatorDrills.py
+debugComparisonOperatorsV1|1605818604909315100|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\debugComparisonOperatorsV1.py
+comparisonDebug|1605819306552617400|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\comparisonDebug.py
+comparisonOutline|1605815931056709700|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\comparisonOutline.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+7=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\comparisonDebug.py
+4=comparisonDrills
+10=practice
+2=comparisonOperatorDrills
+5=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\debugComparisonOperatorsV1.py
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\comparisonOperatorDrills.py
+6=debugComparisonOperatorsV1
+9=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\practice.py
+3=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\comparisonOperators\comparisonDrills.py
+8=comparisonDebug
+-- END DICTIONARY
+-- START TREE 1
+25
+a|1|a!1^6#1*19@
+b|1|b!3^5#1*35@
+c|1|c!3^10#1*35@
+com|4|comparisonDrill!5^24#5*50@comparisonDrillTwo!5^43#5*50@comparisonDrill!7^16#5*66@comparisonDrillTwo!7^35#5*66@
+d|1|d!3^15#1*35@
+e|1|e!3^21#1*35@
+f|1|f!3^26#1*35@
+g|1|g!3^31#1*35@
+h|1|h!3^36#1*35@
+i|1|i!3^41#1*35@
+j|1|j!3^47#1*35@
+k|1|k!3^52#1*35@
+l|1|l!3^58#1*35@
+m|1|m!3^63#1*35@
+n|1|n!3^70#1*35@
+o|1|o!3^76#1*35@
+p|1|p!3^77#1*35@
+q|1|q!3^78#1*35@
+r|1|r!3^86#1*35@
+s|1|s!3^87#1*35@
+shi|2|shippingAndTax!7^55#5*66@shippingAndTax!5^63#5*50@
+sqr|1|sqrt3!3^69#1*35@
+t|1|t!3^88#1*35@
+v|1|v!9^47#1*83@
+x|1|x!9^12#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

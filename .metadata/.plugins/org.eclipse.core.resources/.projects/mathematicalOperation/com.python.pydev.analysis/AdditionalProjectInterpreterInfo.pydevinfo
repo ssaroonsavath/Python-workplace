@@ -1,0 +1,58 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\mathematicalOperation\com.python.pydev.analysis\v2_indexcache
+practice|1605811628445270600|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\practice.py
+mathOutline|1605807966681696700|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\mathOutline.py
+mathDrills|1605811933316797400|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\mathDrills.py
+mathDebug|1605815751718465300|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\mathDebug.py
+mathematicalOperatorDrills|1605809580745115800|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\mathematicalOperatorDrills.py
+debugMathematicalOperatorsV2|1605812061475752600|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\debugMathematicalOperatorsV2.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\mathDrills.py
+10=practice
+5=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\debugMathematicalOperatorsV2.py
+2=mathDrills
+7=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\mathematicalOperatorDrills.py
+4=mathDebug
+3=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\mathDebug.py
+8=mathematicalOperatorDrills
+6=debugMathematicalOperatorsV2
+9=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\mathematicalOperation\practice.py
+-- END DICTIONARY
+-- START TREE 1
+29
+a|1|a!1^58#1*19@
+cal|2|calculations!3^23#5*34@calculations!5^23#5*50@
+d|1|d!1^68#1*19@
+e|1|e!1^19#1*19@
+f|1|f!1^71#1*19@
+fir|1|first!1^17#1*19@
+g|1|g!1^75#1*19@
+h|1|h!1^81#1*19@
+i|1|i!1^42#1*19@
+j|1|j!1^84#1*19@
+k|1|k!1^87#1*19@
+l|1|l!1^94#1*19@
+las|1|last!1^18#1*19@
+lis|2|list!5^39#1*51@list!3^39#1*35@
+mat|1|math!1^5#1*19@
+num|1|num!7^6#1*67@
+o|1|o!1^45#1*19@
+p|1|p!1^55#1*19@
+q|1|q!1^8#1*19@
+r|1|r!1^26#1*19@
+s|1|s!1^61#1*19@
+str|2|string!1^14#1*19@string!9^42#1*83@
+t|1|t!1^29#1*19@
+u|1|u!1^39#1*19@
+var|2|varTwo!9^38#1*83@var!9^2#1*83@
+w|1|w!1^11#1*19@
+x|2|x!9^4#1*83@x!1^100#1*19@
+y|2|y!1^32#1*19@y!9^7#1*83@
+z|1|z!1^97#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

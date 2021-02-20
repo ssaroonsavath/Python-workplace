@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\conversion\com.python.pydev.analysis\v2_indexcache
+conversion1|1611169774175446700|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conversion\conversion1.py
+conversion|1612239993416780200|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conversion\conversion.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=conversion1
+3=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conversion\conversion.py
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conversion\conversion1.py
+4=conversion
+-- END DICTIONARY
+-- START TREE 1
+4
+fee|2|feet!1^35#1*19@feet!3^26#1*35@
+inc|2|inches!3^34#1*35@inches!1^43#1*19@
+mil|2|miles!3^11#1*35@miles!1^20#1*19@
+yar|2|yards!3^18#1*35@yards!1^27#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,25 @@
+'''
+
+
+if/elif/else + (conditional statment):
+    code block
+    
+'''
+
+x = 7 
+if (x > 10):
+    print("The x value is positive")
+print("test")
+
+if(False):
+    print("This is true")
+    
+y = "micheal"
+if(y >= 0):
+    print("The y value is positive")
+else:
+    print("The y value is negative")
+    
+    
+
+    

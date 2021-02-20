@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\survey\com.python.pydev.analysis\v2_indexcache
+survey|1604096299173032500|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\survey\survey.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\survey\survey.py
+2=survey
+-- END DICTIONARY
+-- START TREE 1
+7
+cit|1|city!1^27#1*19@
+col|1|color!1^19#1*19@
+fri|1|friend!1^35#1*19@
+hai|1|hair!1^43#1*19@
+nam|1|name!1^11#1*19@
+res|1|Response!1^18#1*19@
+use|1|userResponse!1^10#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

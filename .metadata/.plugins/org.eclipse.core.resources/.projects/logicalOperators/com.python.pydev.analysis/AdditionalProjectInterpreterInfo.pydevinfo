@@ -1,0 +1,48 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\logicalOperators\com.python.pydev.analysis\v2_indexcache
+practice|1611173499826177700|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\practice.py
+logicalDebug|1611179208248352700|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalDebug.py
+logicalOperatorDrills|1611174923414774100|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalOperatorDrills.py
+logicalDrills|1611177817616059400|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalDrills.py
+logicalOutline|1611174164113127800|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalOutline.py
+debugLogicalOperatorsDrillsV1|1611178180608519500|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\debugLogicalOperatorsDrillsV1.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+7=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\practice.py
+8=practice
+11=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\debugLogicalOperatorsDrillsV1.py
+9=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalDebug.py
+3=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalOutline.py
+10=logicalDebug
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalOperatorDrills.py
+2=logicalOperatorDrills
+4=logicalOutline
+6=logicalDrills
+5=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\logicalOperators\logicalDrills.py
+12=debugLogicalOperatorsDrillsV1
+-- END DICTIONARY
+-- START TREE 1
+17
+a|2|a!1^6#1*19@a!3^9#1*35@
+b|1|b!5^12#5*51@
+boo|1|boolean!7^32#1*67@
+c|1|c!5^17#5*51@
+che|2|checkWhoWins!9^13#5*82@checkWhoWins!11^25#5*98@
+d|1|d!5^21#5*51@
+e|1|e!5^26#5*51@
+f|1|f!5^32#5*51@
+g|1|g!5^37#5*51@
+h|1|h!5^42#5*51@
+i|1|i!5^47#5*51@
+j|1|j!5^52#5*51@
+k|1|k!5^56#5*51@
+one|1|one!3^7#1*35@
+pas|1|password!7^30#1*67@
+two|1|two!3^8#1*35@
+use|1|username!7^29#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

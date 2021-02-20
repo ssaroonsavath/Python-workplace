@@ -1,0 +1,14 @@
+'''
+
+
+if/elif/else + (conditional statment):
+    code block
+    
+'''
+
+x = 7 
+if (x > 10):
+    print("The x value is positive")
+    
+print("test")
+    
