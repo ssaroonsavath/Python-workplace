@@ -2,8 +2,7 @@
 This outline will help solidify concepts from the Conditionals lesson.
 Fill in this outline as the instructor goes through the lesson.
 '''
-
-
+from builtins import True
 
 #1) Make a int variable named a. Now make an if statement, and if a is more than
 #5, print out "a is more than 5."
