@@ -1,20 +1,26 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\conditional\com.python.pydev.analysis\v2_indexcache
-practice|1613788837707424400|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditional\practice.py
-conditionalOutline|1613765227911903600|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditional\conditionalOutline.py
+practice|1613886311975645100|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditional\practice.py
+conditionalOutline|1613887729053516200|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditional\conditionalOutline.py
 -- END DISKCACHE
 -- START DICTIONARY
-2
-2=practice
-1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditional\practice.py
+4
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditional\conditionalOutline.py
+4=practice
+2=conditionalOutline
+3=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditional\practice.py
 -- END DICTIONARY
 -- START TREE 1
-4
-pas|1|password!1^45#1*19@
-x|1|x!1^9#1*19@
-y|1|y!1^17#1*19@
-z|1|z!1^24#1*19@
+8
+a|1|a!1^11#1*19@
+b|1|b!1^19#1*19@
+c|1|c!1^28#1*19@
+d|1|d!1^39#1*19@
+pas|1|password!3^45#1*35@
+x|1|x!3^9#1*35@
+y|1|y!3^17#1*35@
+z|1|z!3^24#1*35@
 -- END TREE
 -- START TREE 2
 0

@@ -1,13 +1,22 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\conditionalDrills\com.python.pydev.analysis\v2_indexcache
-Drills|1613794809201806600|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditionalDrills\Drills.py
+quiz|1613839670663044100|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditionalDrills\quiz.py
+Drills|1614042450941179200|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditionalDrills\Drills.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\conditionalDrills\Drills.py
+2=Drills
 -- END DICTIONARY
 -- START TREE 1
-0
+6
+a|1|a!1^27#1*19@
+age|1|age!1^39#1*19@
+ans|1|answer!1^52#1*19@
+clo|1|cloudy!1^66#1*19@
+col|1|cold!1^65#1*19@
+gra|1|Grade!1^11#1*19@
 -- END TREE
 -- START TREE 2
 0

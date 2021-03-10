@@ -87,19 +87,24 @@ else:
 print("4) In English, a person, place or thing is called:")
 ansFour = input("A) verb B) adjective C) noun")
 
+
 #Check if the answer is correct, if it is add one to score and print out
 #"Correct"
 #Else, print out "Incorrect, the correct answer is C."
+
 
 if(ansFour.upper() == "C"):
     correctAns = correctAns + 1
     print("Correct")
 else:
     print("Incorrect, the correct answer is C.")
+    
 
 #Calculate the percentage the user got. And store it in a variable called p
 
+
 p = correctAns / 4
+
 
 #Print out the users score: "You got a [score]/4. Or a [p]%."
 

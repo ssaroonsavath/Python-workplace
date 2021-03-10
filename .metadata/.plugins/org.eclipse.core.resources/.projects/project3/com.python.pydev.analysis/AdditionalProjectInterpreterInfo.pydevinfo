@@ -1,12 +1,22 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\.metadata\.plugins\org.eclipse.core.resources\.projects\project3\com.python.pydev.analysis\v2_indexcache
+quiz|1613838888403531200|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\project3\quiz.py
+conditionalQuiz|1614042450903128400|C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\project3\conditionalQuiz.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+4
+4=quiz
+2=conditionalQuiz
+3=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\project3\quiz.py
+1=C:\Users\ITAUser\Desktop\ITA\3. Junior\Python\python-workplace\project3\conditionalQuiz.py
 -- END DICTIONARY
 -- START TREE 1
-0
+4
+ans|8|ansFour!1^88#1*19@ansOne!1^40#1*19@ansThree!1^72#1*19@ansFour!3^73#1*35@ansTwo!1^57#1*19@ansTwo!3^47#1*35@ansThree!3^60#1*35@ansOne!3^34#1*35@
+cor|2|correctAns!3^30#1*35@correctAns!1^47#5*19@
+p|2|p!3^85#1*35@p!1^106#1*19@
+sco|1|score!1^35#1*19@
 -- END TREE
 -- START TREE 2
 0
