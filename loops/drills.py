@@ -1,8 +1,4 @@
-'''
-Created on Mar 10, 2021
 
-@author: ITAUser
-'''
 #1) Declare a variable set to 4. Make a while loop that prints the variable 
 #    you just created and decrements the variable by one each time through
 #    the loop. Meanwhile, make the loop run until the variable you created 
